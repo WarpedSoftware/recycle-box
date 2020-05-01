@@ -1,0 +1,6 @@
+C:\Users\HANSEL\Desktop\G191210380_MelihFIRAT_2C_PROJE1 - Kopya\ODEV\obj\Debug\ODEV.csprojAssemblyReference.cache
+C:\Users\HANSEL\Desktop\G191210380_MelihFIRAT_2C_PROJE1 - Kopya\ODEV\obj\Debug\ODEV.Form1.resources
+C:\Users\HANSEL\Desktop\G191210380_MelihFIRAT_2C_PROJE1 - Kopya\ODEV\obj\Debug\ODEV.csproj.GenerateResource.cache
+C:\Users\HANSEL\Desktop\G191210380_MelihFIRAT_2C_PROJE1\ODEV\obj\Debug\ODEV.csprojAssemblyReference.cache
+C:\Users\HANSEL\Desktop\G191210380_MelihFIRAT_2C_PROJE1\ODEV\obj\Debug\ODEV.Form1.resources
+C:\Users\HANSEL\Desktop\G191210380_MelihFIRAT_2C_PROJE1\ODEV\obj\Debug\ODEV.csproj.GenerateResource.cache
